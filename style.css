@@ -1,0 +1,39 @@
+.btn-danger
+{
+    width: 50%;
+    height: 50px;
+    float: none;
+    font-size: 25px;
+    border-radius: 60px;
+}
+
+.btn-danger:hover
+{
+    width: 51%;
+    height: 60px;
+    float: none;
+    font-size: 30px;
+    border-radius: 60px;
+    background-color: orange;
+}
+
+#camera
+{
+    height: 270px;
+    width: 330px;
+}
+
+.header
+{
+    background: linear-gradient(to top, rgb(196, 124, 255), 20%, rgb(72, 194, 255));
+    border-radius: 80px;
+    margin-top: 10px;
+}
+
+.header:hover
+{
+    background: linear-gradient(to top, rgb(113, 56, 159), 20%, rgb(23, 90, 124));
+    border-radius: 80px;
+    margin-top: 10px;
+    color: whitesmoke;
+}
